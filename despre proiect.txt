@@ -1,0 +1,11 @@
+Proiectul acesta are 2 parti:
+-partea de extragere a datelor de pe site-ul www.piata-az.ro.
+-partea de curatare a datelor si de predictie numerica. 
+Scopul proiectul a fost sa pot oferi o predictie numerica pentru un apartament din Cluj-Napoca. In acest scop am facut un web scraper prin care am extras toate anunturile cu apartamente si garsoniere de vanzare din Cluj-Napoca, am curatat datele si am aplicat un algoritm de predictie numerica (de regresie) pentru a da un pret unui apartament in functie de caracteristicile acestuia.
+In fisierul “web scraper” este codul pentru web scraper
+In fisierele “anunturi_piata_apartamente.csv” si “anunturi_piata_garsoniere.csv” sunt anunturile cu apartamente si garsoniere de vanzare in format csv.
+In fisierul “predictie preturi imobiliare” este codul pentru curatarea datelor si pentru predictie.
+
+Scurtu Mihai-Liviu
+https://www.linkedin.com/in/mihai-scurtu-515276104/
+
