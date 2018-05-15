@@ -6,7 +6,8 @@ In acest scop am facut un web scraper prin care am extras toate anunturile cu ap
 si garsoniere de vanzare din Cluj-Napoca, am curatat datele si am aplicat un algoritm de 
 redictie numerica (de regresie) pentru a da un pret unui apartament in functie de caracteristicile acestuia.
 In fisierul “web scraper” este codul pentru web scraper
-In fisierele “anunturi_piata_apartamente.csv” si “anunturi_piata_garsoniere.csv” sunt anunturile cu apartamente si garsoniere de vanzare in format csv.
+In fisierele “anunturi_piata_apartamente.csv” si “anunturi_piata_garsoniere.csv” sunt anunturile cu 
+apartamente si garsoniere de vanzare in format csv.
 In fisierul “predictie preturi imobiliare” este codul pentru curatarea datelor si pentru predictie.
 
 Scurtu Mihai-Liviu
