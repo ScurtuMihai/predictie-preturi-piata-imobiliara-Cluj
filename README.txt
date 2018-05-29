@@ -1,7 +1,5 @@
 # predictie-preturi-piata-imobiliara-Cluj
-Prin acest proiect am incercat sa extrag toate anunturile cu apartamente de vanzare din Cluj-Napoca de pe site-ul www.piata-az.ro,
-sa curat datele, sa afisez grafice relevante despre situatia pietei imobiliare din Cluj si sa ofer un algoritm de predictie
-numerica.
+Prin acest proiect am incercat sa extrag toate anunturile cu apartamente de vanzare din Cluj-Napoca de pe site-ul www.piata-az.ro,  sa curat datele, sa afisez grafice relevante despre situatia pietei imobiliare din Cluj si sa ofer un algoritm de predictie numerica.
 Proiectul acesta are urmatoarele parti:
   -partea de extragere a datelor, aceasta parte poate fi regasita in fisierul "web scraper.py"
   -partea de curatare a datelor, aceasta parte poate fi regasita in fisierul "Curatare date.ipynb"
