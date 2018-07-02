@@ -4,7 +4,7 @@ Proiectul acesta are urmatoarele parti:
   -partea de extragere a datelor, aceasta parte poate fi regasita in fisierul "web scraper.py"
   -partea de curatare a datelor, aceasta parte poate fi regasita in fisierul "Curatare date.ipynb"
   -partea de vizualizare a datelor, aceasta parte am facut-o in Tableau Public. 
-  Link: https://public.tableau.com/profile/scurtu.mihai.liviu#!/vizhome/graficeapartamente/Sheet1?publish=yes
+  Link: https://public.tableau.com/profile/scurtu.mihai.liviu#!/vizhome/Apartamentepiata-az/Cartiercompatimentare
   -partea de predictie numerica, aceasta parte poate fi regasita in fisierul "Predictie preturi.ipynb"
 
 Scurtu Mihai-Liviu
